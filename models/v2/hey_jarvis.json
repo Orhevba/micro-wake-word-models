@@ -3,8 +3,8 @@
   "wake_word": "Hey Jarvis",
   "author": "Kevin Ahrendt",
   "website": "https://www.kevinahrendt.com/",
-  "model": "./hey_jarvis.tflite",
-  "version": 2,
+  "model": "https://github.com/casanovaiptv/micro-wake-word-models/raw/refs/heads/main/models/hey_jarvis.tflite",
+  "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
     "sliding_window_average_size": 10
